@@ -1,0 +1,18 @@
+#one {
+  background-color: pink;
+}
+
+#two {
+  background-color: lightgreen;
+}
+
+#three {
+  background-color: skyblue;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  float: left;
+}
